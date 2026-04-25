@@ -8,7 +8,7 @@ Facilitated by **TAKEBON** / Creative Kids Project
 
 ## 公開サイト
 
-**→ https://あなたのユーザー名.github.io/tanquest2/**
+**→ https://takenokodesign.github.io/tanquest2/**
 
 ---
 
